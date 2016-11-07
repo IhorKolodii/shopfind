@@ -1,0 +1,494 @@
+[colours]
+red
+blue
+white
+green
+yellow
+purple
+black
+gray
+orange
+pale
+floral pattern
+floral print
+flower pattern
+flower print
+paisley print
+animal print
+bright print
+all-over print
+print skirt
+print shirt
+printed top
+printed sleeves
+striped
+checked
+checkered
+plaid
+polka dot
+paisley
+bright colors
+colorful
+pastel colors
+soft colors
+light-blue
+dark-green
+bright-red
+black-and-white
+black
+blue
+brown
+navy
+pink
+violet
+
+
+[adjectives]
+mans
+womans
+man
+woman
+L
+M
+S
+L-size
+M-size
+S-size
+A-line
+backless 
+baggy 
+best 
+boot-cut
+brief
+button-down
+button-through
+casual 
+clingy
+close-fitting
+comfortable
+conservative
+cool
+décolleté
+designer
+double-breasted
+dressy
+drip-dry
+easy-care
+fitting
+flame-retardant
+formal
+full
+full-length
+hard-wearing
+heavy
+homespun
+hooded
+hooded
+ill-fitting
+informal
+itchy
+Jackie-O
+knee-length
+light
+lined
+long
+loose
+loose-fitting
+low
+low-cut
+machine washable
+made-to-measure
+modest
+non-iron
+off-the-peg
+off-the-rack
+one-piece
+open-necked
+oversized
+padded
+peaked
+plunging
+preshrunk
+prim
+prissy
+raglan
+rainproof
+ready-to-wear
+revealing
+reversible
+rolled-up
+roomy
+ruched
+sartorial
+scanty
+seamed
+seamless
+sensible
+showerproof
+single-breasted
+skimpy
+skinny
+skin-tight
+sleeveless
+slimming
+sloppy
+smart
+snug
+sporty
+starched
+straight
+strapless
+strappy
+stretch
+stretchy
+tailored
+tailor-made
+thermal
+threadbare
+tight
+tight-fitting
+two-piece
+underwired
+unfashionable
+unlined
+voluminous
+-waisted
+washable
+waterproof 
+wearable
+weatherproof
+wraparound
+zip-up
+monogrammed
+polo-neck
+V-necked
+down to
+women's 
+men's
+children's
+baby
+sports
+ladies' 
+winter
+summer
+expensive
+cheap
+nice
+shabby
+ready-made
+handmade
+work
+working
+big
+small
+
+[dress]
+uniform
+protective clothing
+footwear
+headgear
+underwear
+sportswear
+swimwear
+sleepwear
+clothes
+clothing
+garments
+wear
+dress
+outfit
+attire
+apparel
+fashion
+style
+vogue
+haute
+couture
+winter coat
+warm coat
+fur coat
+sheepskin coat
+storm coat
+parka
+snowsuit
+coat
+topcoat
+overcoat
+trench coat
+raincoat
+waterproof coat
+slicker
+leather jacket
+bomber jacket
+car coat
+windbreaker
+windcheater
+sports jacket
+casual dress
+formal dress
+summer dress
+woolen dress
+cocktail dress
+low-cut dress
+evening dress
+evening gown
+business suit
+pants suit
+button-through dress
+pinafore dress
+house dress
+maternity wear
+maternity dress
+sweater
+jersey
+cardigan
+jacket
+vest
+blouse
+shirt
+tunic
+T-shirt
+tank top
+halter top
+skirt
+miniskirt
+long skirt
+pleated skirt
+black skirt
+culotte
+pants
+slacks
+trousers
+jeans
+denims
+shorts
+swimsuit
+swimming suit
+bathing suit
+bikini
+jumpsuit
+warm-up suit
+training suit
+business suit
+three-piece suit
+tuxedo
+tail coat
+tails
+black tie
+white tie
+trousers
+slacks
+jeans
+denims
+shorts
+jacket
+blazer
+vest
+sweater
+turtleneck sweater
+pullover
+jumper
+sweatshirt
+shirt
+polo shirt
+T-shirt
+tank top
+warm-up suit
+training suit
+trunks
+bathing trunks
+swimming trunks
+swim trunks
+swim briefs
+overalls
+underwear
+hosiery
+sleepwear
+robes
+lingerie
+panties
+bra
+slip
+half slip
+briefs
+underpants
+T-shirt
+undershirt
+pantyhose
+tights
+leggings
+stockings
+socks
+slouch socks
+knee-high socks
+pajamas
+nightgown
+sleepshirt
+housecoat
+robe
+bathrobe
+terry-cloth robe
+bag
+handbag
+purse
+clutch
+briefcase
+attache case
+wallet
+pocketbook
+billfold
+purse
+coin purse
+make-up kit
+cosmetic case
+shaving kit
+travel kit
+travel bag
+duffel bag
+sports bag
+backpack
+rucksack
+tote bag
+hand luggage
+hand baggage
+cabin bag
+carry-on bag
+flight bag
+suitcase
+garment bag
+Pullman bag
+trunk
+belt
+suspenders
+straps
+umbrella
+button
+zipper
+buckle
+clasp
+Velcro
+hat
+fur hat
+beret
+cap
+baseball cap
+hood
+headband
+helmet
+scarf
+kerchief
+silk scarf
+woolen scarf
+knitted scarf
+muffler
+shawl
+gloves
+mittens
+earmuffs
+handkerchief
+sunglasses
+glasses
+contact lenses
+necktie
+tie
+silk tie
+bow tie
+
+[dress_about]
+collar
+turtleneck collar
+shawl collar
+stand-up collar
+V-neck
+crew neck
+collarless
+sleeve
+long sleeve
+short sleeve
+sleeveless
+with long sleeves
+with short sleeves
+long-sleeved blouse
+short-sleeved dress
+padded shoulders
+cuffs
+pocket
+front pocket
+back pocket
+side pocket
+patch pocket
+slash pocket
+inside pocket
+fabric
+cloth
+material
+textile
+cotton
+linen
+silk
+wool
+mohair
+velvet
+corduroy
+denim
+suede
+leather
+synthetics
+nylon
+polyester
+Lycra
+spandex
+artificial fur
+natural fur
+mink
+fox
+sable
+chinchilla
+beaver
+rabbit
+astrakhan
+sheepskin
+knitted garments
+knitwear
+knitted cap
+embroidery
+embroidered dress
+
+
+[shoes]
+winter boots
+ladies' boots
+hiking boots
+rubber boots
+walking shoes
+Oxfords
+loafers
+moccasins
+pumps
+evening shoes
+patent leather shoes
+suede shoes
+high-heel shoes
+low-heel shoes
+flat-heel shoes
+sandals
+open-toe shoes
+slippers
+mules
+rubber thongs
+tennis shoes
+running shoes
+sneakers
+training shoes
+trainers
+athletic shoes
+
+[shoes_about]
+sole
+insole
+lining
+cushioning
+heel
+tongue
+buckle
+shoe laces
